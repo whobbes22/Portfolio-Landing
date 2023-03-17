@@ -9,30 +9,14 @@ body {
   color: rgba(238, 237, 192, 0.863);
 }
 
-.vg {
-  
-  max-width: 25%;
-}
-
-.games {
-  color:aqua;
-  background-color: blue;
-  display: grid;
-  grid-template-columns: min-content 1fr;
-
+.portrait { 
+  float: left;
 }
 
 .icon-container {
   display:flex;
   align-items:center;
   flex-direction: row;
-}
-
-.box {
-  display: grid;
-  align-items: center;
-  grid-template-columns: 1fr, 1fr, 1fr;
-  column-gap: 5px;
 }
 
 .icon {
