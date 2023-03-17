@@ -17,12 +17,47 @@ body {
 .games {
   color:aqua;
   background-color: blue;
+  display: grid;
+  grid-template-columns: min-content 1fr;
 
+}
 
+.icon-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+
+.box {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr, 1fr, 1fr;
+  column-gap: 5px;
 }
 
 .icon {
-  float: left;
+padding-right: 20px;
+}
+.no-icon{
+  padding-left: 50px;
+}
+.icon-text{
+  font-size: 15px;
+}
+
+/* 
+.icon {
+
   margin-right: 30px;
   display: inline;
-}
+} */
+
+/* 
+body {
+  display: grid;
+  grid-template-columns: min-content 1fr;
+} 
+
+or make fig
+
+*/
