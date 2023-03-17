@@ -1,16 +1,30 @@
 body {
-  margin-left: 10%;
-  margin-right:10%;
+  background-color: rgba(7, 7, 7, 0.952);
+}
+
+#mainPage {
+  margin-left:  10%;
+  margin-right: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
   
   background-image: url("../img/stars.png");
+  
   background-position: center;
   background-attachment: fixed;
  
-  color: rgba(238, 237, 192, 0.863);
+  color: rgba(223, 221, 129, 0.863);
+}
+
+h1 {
+  color: rgb(155, 252, 179);
+}
+h4 {
+  color: chartreuse;
 }
 
 .portrait { 
-  float: left;
+  float: right;
 }
 
 .icon-container {
