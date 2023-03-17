@@ -47,3 +47,27 @@ padding-right: 20px;
 .icon-text{
   font-size: 15px;
 }
+
+/* 
+
+code does not do what I want it to do but a good start for something possible in the future
+
+ .threeSlide {
+  animation: MoveUpDown 3s linear infinite;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+
+ @keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 0;
+    left: 0;
+  }
+  50% {
+    bottom: 40%;
+    left: 10%;
+  }
+} */
+
