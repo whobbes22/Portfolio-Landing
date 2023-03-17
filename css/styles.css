@@ -1,12 +1,15 @@
 body {
   margin-left: 10%;
   margin-right:10%;
-  background-image: url("img/stars.png");
+  
+  background-image: url("../img/stars.png");
+  background-position: center;
+  background-attachment: fixed;
   /* background-color: rgba(1, 1, 3, 0.973); */
-  color: rgba(228, 228, 228, 0.911);
+  color: rgba(238, 237, 192, 0.863);
 }
 
 .vg {
-  background-color: yellow;
+  
   max-width: 25%;
 }
