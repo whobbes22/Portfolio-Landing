@@ -16,6 +16,11 @@ body {
   color: rgba(223, 221, 129, 0.863);
 }
 
+.great {
+  font-style: italic;
+  font-weight: bold;
+}
+
 h1 {
   color: rgb(155, 252, 179);
 }
@@ -42,20 +47,3 @@ padding-right: 20px;
 .icon-text{
   font-size: 15px;
 }
-
-/* 
-.icon {
-
-  margin-right: 30px;
-  display: inline;
-} */
-
-/* 
-body {
-  display: grid;
-  grid-template-columns: min-content 1fr;
-} 
-
-or make fig
-
-*/
