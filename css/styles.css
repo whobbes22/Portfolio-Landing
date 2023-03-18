@@ -7,12 +7,9 @@ body {
   margin-right: 10%;
   padding-left: 5%;
   padding-right: 5%;
-  
   background-image: url("../img/stars.png");
-  
   background-position: center;
   background-attachment: fixed;
- 
   color: rgba(223, 221, 129, 0.863);
 }
 
@@ -41,9 +38,11 @@ h4 {
 .icon {
 padding-right: 20px;
 }
+
 .no-icon{
   padding-left: 50px;
 }
+
 .icon-text{
   font-size: 15px;
 }
