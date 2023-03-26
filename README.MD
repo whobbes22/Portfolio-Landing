@@ -1,13 +1,42 @@
-Name:               Joe's Portfolio
-Contributors:       Joe Wahbeh
-Description:        A webpage demonstarting the greatness of Joe
-Date created:       3/17/2023
-Technologies used:  HTML, CSS, BootStrap
-Setup:              Copy and paste link in browser -> https://whobbes22.github.io/Portfolio-Landing/
-Known bugs:         N/A
-Liscene:            This project uses - The Mit License (MIT)
-copyright:          This page uses BootStrap
-                      The MIT License (MIT)
-                      Copyright (c) 2011-2018 Twitter, Inc.
-                      Copyright (c) 2011-2018 The Bootstrap Authors
+# Portfolio Landing page
 
+#### Contributors: Joseph Wahbeh
+
+## Description:
+This webpage shows the important projects of Joseph Wahbeh, as well as introducing him, his background and what he likes
+
+## Technologies used: 
+- HTML
+- CSS
+- Bootstrap
+
+## Setup:
+- Download / clone repo
+    - or go copy and paste into browser -> https://whobbes22.github.io/Portfolio-Landing/
+- Read website
+
+## Known bugs:
+*N/A*
+
+## Copyright and license:
+Code Copyright 2023 Joseph Wahbeh under the MIT License
+
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
