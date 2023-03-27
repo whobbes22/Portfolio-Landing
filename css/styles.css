@@ -1,5 +1,6 @@
 body {
   background-color: rgba(7, 7, 7, 0.952);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #mainPage {
@@ -7,6 +8,8 @@ body {
   margin-right: 10%;
   padding-left: 5%;
   padding-right: 5%;
+  border: solid;
+  border-color:  yellow;
   background-image: url("../img/stars.png");
   background-position: center;
   background-attachment: fixed;
@@ -21,12 +24,10 @@ body {
 h1 {
   color: rgb(155, 252, 179);
 }
-h4 {
-  color: chartreuse;
-}
 
 .portrait { 
   float: right;
+  margin: 20px;
 }
 
 .icon-container {
@@ -46,27 +47,3 @@ padding-right: 20px;
 .icon-text{
   font-size: 15px;
 }
-
-/* 
-
-code does not do what I want it to do but a good start for something possible in the future
-
- .threeSlide {
-  animation: MoveUpDown 3s linear infinite;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-}
-
-
- @keyframes MoveUpDown {
-  0%, 100% {
-    bottom: 0;
-    left: 0;
-  }
-  50% {
-    bottom: 40%;
-    left: 10%;
-  }
-} */
-
