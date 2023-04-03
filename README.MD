@@ -11,14 +11,9 @@ This webpage shows the important projects of Joseph Wahbeh, as well as introduci
 - Bootstrap
 
 ## Setup:
-- Power on computer
-- Esatblish internet connection
-- open browser
-- copy this link https://github.com/whobbes22/Portfolio-Landing
-- paste link into browser
-- clone this repository to your desktop
-- Navitagate to the top level of the directory
-- open the file labeled "index.html"
+- Clone repository to your desktop
+- Navigate to the top level of the directory
+- open "index.html" into browser of your choice
 - Read website
 
 ## Known bugs:
